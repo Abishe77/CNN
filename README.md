@@ -101,10 +101,4 @@ Training prints loss and accuracy every epoch. After 50 epochs, test accuracy is
 
 ---
 
-## Author
 
-**Naga Abishe Kumar**
-B.Tech AI & ML, Panimalar Engineering College
-
-GitHub: [Abishe77](https://github.com/Abishe77)
-LinkedIn: [nagaabishekumar](https://www.linkedin.com/in/nagaabishekumar/)

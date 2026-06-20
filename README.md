@@ -61,6 +61,7 @@ Only 400 images are used (subset for speed):
 | Test subset | 200 images |
 | Filters used | 1 |
 | Test Accuracy | **64%** |
+| Train Accuracy | **73.5%** |
 | Epochs | 50 |
 | Learning Rate | 0.25 |
 
